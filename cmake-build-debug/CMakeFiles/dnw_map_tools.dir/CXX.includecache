@@ -6,7 +6,29 @@
 
 #IncludeRegexTransform: 
 
-D:/Code/dnwrepos/dnw-map-tools/main.cpp
+D:/Code/dnwrepos/dnw-map-tools/pugiconfig.hpp
+
+D:/Code/dnwrepos/dnw-map-tools/pugixml.hpp
+pugiconfig.hpp
+D:/Code/dnwrepos/dnw-map-tools/pugiconfig.hpp
+stddef.h
+-
+exception
+-
+iterator
+-
+iosfwd
+-
+string
+-
+
+D:/Code/dnwrepos/dnw-map-tools/svgHandler.cpp
+svgHandler.h
+D:/Code/dnwrepos/dnw-map-tools/svgHandler.h
 iostream
 -
+pugixml.hpp
+D:/Code/dnwrepos/dnw-map-tools/pugixml.hpp
+
+D:/Code/dnwrepos/dnw-map-tools/svgHandler.h
 

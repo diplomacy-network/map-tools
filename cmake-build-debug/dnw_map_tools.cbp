@@ -83,6 +83,21 @@
 		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/main.cpp">
 			<Option target="dnw_map_tools"/>
 		</Unit>
+		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/pugiconfig.hpp">
+			<Option target="dnw_map_tools"/>
+		</Unit>
+		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/pugixml.cpp">
+			<Option target="dnw_map_tools"/>
+		</Unit>
+		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/pugixml.hpp">
+			<Option target="dnw_map_tools"/>
+		</Unit>
+		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/svgHandler.cpp">
+			<Option target="dnw_map_tools"/>
+		</Unit>
+		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/svgHandler.h">
+			<Option target="dnw_map_tools"/>
+		</Unit>
 		<Unit filename="D:/Code/dnwrepos/dnw-map-tools/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

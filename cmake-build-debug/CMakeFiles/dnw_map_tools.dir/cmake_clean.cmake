@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/dnw_map_tools.dir/main.cpp.obj"
+  "CMakeFiles/dnw_map_tools.dir/pugixml.cpp.obj"
+  "CMakeFiles/dnw_map_tools.dir/svgHandler.cpp.obj"
   "dnw_map_tools.pdb"
   "dnw_map_tools.exe"
   "dnw_map_tools.exe.manifest"
