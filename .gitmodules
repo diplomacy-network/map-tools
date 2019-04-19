@@ -1,0 +1,3 @@
+[submodule "dnw-planning"]
+	path = dnw-planning
+	url = git@gitlab.com:diplomacy-network/dnw-planning.git
