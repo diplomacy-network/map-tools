@@ -1,0 +1,19 @@
+{
+  "name": "dnw-map-tools",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/diplomacy-network/dnw-map-tools.git"
+  },
+  "author": "Alexander Wulf",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://gitlab.com/diplomacy-network/dnw-map-tools/issues"
+  },
+  "homepage": "https://gitlab.com/diplomacy-network/dnw-map-tools#readme"
+}
