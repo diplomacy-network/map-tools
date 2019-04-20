@@ -18,5 +18,8 @@
   "homepage": "https://gitlab.com/diplomacy-network/dnw-map-tools#readme",
   "dependencies": {
     "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "eyes": "^0.1.8"
   }
 }
