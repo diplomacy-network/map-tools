@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/diplomacy-network/dnw-map-tools/issues"
   },
-  "homepage": "https://gitlab.com/diplomacy-network/dnw-map-tools#readme"
+  "homepage": "https://gitlab.com/diplomacy-network/dnw-map-tools#readme",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
 }
