@@ -1,5 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\dnwrepos\dnw-map-tools
--- Could NOT find SQLITE3 (missing: SQLITE3_LIBRARY SQLITE3_INCLUDE_DIR) 
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Code/dnwrepos/dnw-map-tools/cmake-build-debug
