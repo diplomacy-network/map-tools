@@ -27,7 +27,7 @@ module.exports = {
         return parsed;
     },
 
-    checkIfAllProvincesAreUnique: function (parsed) {
+    checkIfAllProvinceIDsAreUnique: function (parsed) {
         //Get a list of all provinceIDs
         expression = "svg.g[?id=='tiles'].g[].path[].id"
         result = jmespath.search(parsed, expression)
