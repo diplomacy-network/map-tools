@@ -1,6 +1,6 @@
 const fs = require('fs');
 const parser = require('fast-xml-parser');
-const jsonQ = require("jsonq");
+const jmespath = require('jmespath');
 
 const inspect = require('eyes').inspector({
     maxLength: false
@@ -28,14 +28,11 @@ module.exports = {
     },
 
     checkIfAllProvincesAreUnique: function (parsed) {
-        let data = jsonQ(parsed);
-        res = data.find('g', function(){
-            return this.id === "tiletypes"
-        });
-        // inspect(res)
-        res.each(function(index, path, value){
-             console.log(path);
-     })
+        //Get a list of all provinceIDs
+        expression = "svg.g[?id=='tiles'].g[].path[].id"
+        result = jmespath.search(parsed, expression)
+        // inspect(result)
+        return (new Set(result).size === result.length);
     }
 }
 

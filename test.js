@@ -6,4 +6,5 @@ const svgHandler = require ('./modules/svgHandler.js')
 
 let ret = svgHandler.parseXmlToJson()
 // inspect(ret)
-svgHandler.checkIfAllProvincesAreUnique(ret);
+unique = svgHandler.checkIfAllProvincesAreUnique(ret);
+console.log(unique)
