@@ -1,13 +1,9 @@
-var fs = require('fs'),
-    xml2js = require('xml2js');
+const inspect = require('eyes').inspector({
+    maxLength: false
+});
 
+const svgHandler = require ('./modules/svgHandler.js')
 
-    var inspect = require('eyes').inspector({maxLength: false})
-
-    var parser = new xml2js.Parser();
-    fs.readFile(__dirname + '/MapTest.svg', function(err, data) {
-        parser.parseString(data, function (err, result) {
-           inspect(result);
-            console.log('Done');
-        });
-    });
+let ret = svgHandler.parseXmlToJson()
+// inspect(ret)
+svgHandler.checkIfAllProvincesAreUnique(ret);
