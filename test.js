@@ -4,11 +4,11 @@ const inspect = require('eyes').inspector({
 const fs = require('fs')
 
 const svgHandler = require ('./modules/svgHandler.js')
+const path = __dirname + '/MapTest.svg'
 
-let ret = svgHandler.parseXmlToJson()
+let ret = svgHandler.parseXmlToJson(path)
 fs.writeFileSync("./xmlParsed.json", JSON.stringify(ret))
 // inspect(ret)
 unique = svgHandler.checkIfAllProvinceIDsAreUnique(ret);
 console.log(unique)
-let returnvalue = svgHandler.retrieveProvincePaths(ret)
-inspect(returnvalue)
+svgHandler.generateSvgHandled(ret)
