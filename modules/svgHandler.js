@@ -38,57 +38,22 @@ module.exports = {
     generateSvgHandled: function (parsed) {
         var tiletypes = getAllTiletypes(parsed);
         var handled = addProvincesByTiletype(parsed, tiletypes);
-        console.log(handled)
+        
+        console.dir(handled, {depth: null})
+        return handled
     },
 
 
-
-
-    // retrieveProvincePaths: function (parsed) {
-    //     expression = jsonata("svg.g[id = 'tiles'].g");
-    //     result = expression.evaluate(parsed);
-    //     var stagedHandled = {provinces: []};
-
-    //     result.forEach(tasu => {
-    //         currentTiletype = tasu.id;
-
-    //         tasu.path.forEach(finn => {
-    //             if(finn.id.includes("union_")) {
-    //                 //UNION Handler
-    //                 current = {
-    //                     short: finn.id,
-    //                     tiletype: currentTiletype,
-    //                     provinceOutlinePath: finn.d,
-    //                 }
-
-    //             } else {
-    //                 stagedHandled.provinces.push({
-    //                     short: finn.id,
-    //                     tiletype: currentTiletype,
-    //                     provinceOutlinePath: finn.d,
-    //                     unionParts: [{
-    //                         id: "main",
-    //                         unionPartPath: finn.d
-    //                     }]
-    //                 })
-    //             }
-
-    //         });
-    //     });
-    //     return stagedHandled
-    // }
 }
 
 function addProvincesByTiletype(parsed, tiletypes) {
     var handled = {
         provinces: [],
-        passthroughs: []
-    };
+        };
     tiletypes.forEach(currentTiletype => {
         var currentTiletypeData = jsonata("svg.g[id = 'tiles'].g[id = '" + currentTiletype + "'].$sift(function($v, $k) {$k ~> /g|path/}).*").evaluate(parsed);
         currentTiletypeData.forEach(currentRawObject => {
             handled.provinces.push(constructProvinceObject(currentRawObject, currentTiletype));
-
         });
     });
     return handled;
@@ -103,7 +68,7 @@ function constructProvinceObject(rawObject, tiletype) {
             tiletype: tiletype,
             provinceOutlinePath: rawObject.d,
             unionParts: [{
-                id: "main",
+                id: returnIdPreferSerifId(rawObject),
                 unionPartPath: rawObject.d
             }]
         }
@@ -113,11 +78,11 @@ function constructProvinceObject(rawObject, tiletype) {
             var object = {
                 short: id,
                 tiletype: tiletype,
-                provinceOutlinePath: rawObject.path.find(element => returnIdPreferSerifId(element) === 'main').d 
+                provinceOutlinePath: rawObject.path.find(element => returnIdPreferSerifId(element) === id).d 
             };
             var unionParts = [];
             rawObject.path.forEach(rawUnionPart => {
-                if(returnIdPreferSerifId(rawUnionPart) === 'main') return;
+                if(returnIdPreferSerifId(rawUnionPart) === id) return;
                 var unionPart = {
                     id: id + '.' + returnIdPreferSerifId(rawUnionPart).replace(/[()]/g, ''),
                     unionPartPath: rawUnionPart.d

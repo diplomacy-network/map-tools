@@ -18,7 +18,9 @@
   "homepage": "https://gitlab.com/diplomacy-network/dnw-map-tools#readme",
   "dependencies": {
     "fast-xml-parser": "^3.12.16",
-    "jsonata": "^1.6.4"
+    "jsonata": "^1.6.4",
+    "point-in-polygon": "^1.0.1",
+    "victor": "^1.1.0"
   },
   "devDependencies": {
     "eyes": "^0.1.8"

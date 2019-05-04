@@ -1,1 +1,1652 @@
-{"svg":{"width":"100%","height":"100%","viewBox":"0 0 614 400","version":1.1,"xmlns":"http://www.w3.org/2000/svg","xmlns:xlink":"http://www.w3.org/1999/xlink","xml:space":"preserve","xmlns:serif":"http://www.serif.com/","style":"fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;","g":[{"id":"tiles","g":[{"id":"water","path":[{"id":"ska","d":"M255.848,145.321l19.839,0.054l12.677,8.62l6.085,-8.62l-8.62,-29.41l-30.488,13.637l0.507,15.719Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"nws","d":"M140.038,0.667l34.86,68.197l-6.338,27.888l12.677,3.169l70.988,-17.747l100.144,-62.115l1.268,-19.392l-213.599,0Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"nao","d":"M140.038,0.667l-139.371,0l0,170.547l70.181,12.169l40.564,-25.555l-2.434,-8.519l23.122,-25.15l15.009,5.273l0.406,9.736l15.875,2.045l-7.356,-15.432l-0.406,-18.659l12.932,-10.37l6.338,-27.888l-34.86,-68.197","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"irs","d":"M70.848,183.383l28.395,12.17l26.442,-7.703l19.909,-10.103l-7.741,-8.933l15.841,-15.085l9.696,-12.516l-15.875,-2.045l-7.477,20.725l-28.626,-2.065l-40.564,25.555","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"cha","d":"M99.243,195.553l19.065,11.48l37.479,7.302l1.217,-10.141l8.765,5.273l16.386,-4.056l12.98,-14.603l-3.245,-3.246l-12.981,7.991l-53.224,-7.703l-26.442,7.703Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"nse","d":"M195.135,190.808l28.345,-11.892l6.508,-22.947l25.86,-10.648l-0.507,-15.719l-8.503,-15.719l5.387,-31.709l-70.988,17.747l7.172,12.948l-6.084,17.747l7.606,30.424l10.648,6.32l-8.689,20.202l3.245,3.246Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"bas","d":"M294.449,168.837l-18.888,9.842l9.829,4.704l21.277,7.425l28.777,-7.425l17.446,-9.353l1.869,-20.035l-33.023,-9.458l-15.069,18.485l-12.218,5.815Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"gob","d":"M321.736,144.537l9.267,-20.401l-7.789,-15.902l18.498,-31.153l3.894,-12.007l9.153,11.682l-5.583,27.909l20.444,18.173l32.777,-2.272l-36.022,23.971l-11.616,9.458l-33.023,-9.458","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"bar","d":"M352.369,20.059l69.166,20.466l2.597,18.822l-31.154,5.727l22.067,17.314l29.856,-32.094l55.087,-49.627l-146.351,0l-1.268,19.392Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"mao","d":"M118.308,207.033l0,10.593l21.73,11.683l-14.936,52.442l-44.913,-16.615l-16.356,18.043l-24.144,50.884l27,8.308l9.866,10.644l-1.039,4.933l-68.279,40.719l-6.57,0l0,-227.453l70.181,12.169l28.395,12.17l19.065,11.48Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"wem","d":"M75.516,357.948l5.712,0l6.555,10.644l30.525,10.125l9.131,-7.788l85.413,3.634l2.596,-20.509l-3.634,-14.798l-30.577,-7.529l-50.942,5.971l-22.587,14.279l-22.846,-3.894l-8.307,4.932l-1.039,4.933Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"gol","d":"M211.814,339.256l0.519,-7.529l11.163,0l0,-7.918l-2.336,-10.125l8.567,-6.491l17.111,2.337l-3.351,-11.163l-28.039,-4.674l-10.644,6.75l-29.906,-7.009l-9.129,18.692l-41.186,14.279l5.712,11.293l50.942,-5.971l30.577,7.529Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"tys","d":"M215.448,354.054l8.048,-4.284l0,-18.043l0,-4.249l6.941,-11.133l-0.71,-9.152l17.111,2.337l0,6.815l37.754,38.877l5.193,9.449l-11.034,10.709l-31.913,-0.649l-17.738,3.986l-10.558,0l-5.69,-4.154l2.596,-20.509Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"ion","d":"M229.1,378.717l-4.544,19.95l159.663,0l0,-5.925l-10.384,-8.762l-4.219,4.218l-3.57,-9.481l-3.979,8.183l-4.134,-8.183l4.134,-6.42l-17.114,-17.075l-6.815,-5.966l-12.007,5.966l-11.304,6.041l-8.16,-10.709l-4.551,4.668l4.551,14.154l-24.346,14.604l-3.57,-8.6l-8.438,14.441l-23.475,-15.09l-17.738,3.986Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"ads","d":"M338.138,349.256l-0.771,-16.498l-2.799,-8.814l-44.783,-24.014l-9.087,-14.99l-12.332,0l-0.973,8.494l12.331,13.759l5.193,15.128l19.471,9.406l21.743,23.495l12.007,-5.966Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"aeg","d":"M373.835,383.98l-0.815,-5.263l6.513,0l6.646,-9.849l-11.298,-6.247l-5.982,-15.818l10.235,6.247l7.843,-15.419l18.891,-1.223l9.347,2.848l-4.933,10l6.75,15.71l12.981,8.995l-17.135,16.187l-28.659,2.594l-10.384,-8.762Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"eme","d":"M412.878,390.148l-4.024,8.519l107.545,0l-1.557,-34.092l-8.568,2.857l-6.286,-2.857l-22.271,9.386l-19.471,0l0,4.756l-17.654,4.292l-1.558,-9.048l-9.021,0l-17.135,16.187Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"bls","d":"M432.133,316.345l8.972,5.638l21.522,0.333l31.814,-19.108l21.958,8.308l25.728,-13.957l-22.763,-18.277l-19.376,-9.471l-15.849,11.797l-8.308,0.333l-10.8,-7.81l10.8,-9.304l-35.889,9.138l-9.929,22.431l2.12,19.949Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"},{"id":"hel","d":"M250.388,147.569l-20.4,8.4l-6.508,22.947l17.187,-0.249l9,-4l4.813,4l4.187,-5l-2.5,-5l-5.779,-21.098Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"}]},{"id":"coast","path":[{"id":"wal","d":"M169.717,194.222l-2.183,-18.912l7.911,-5.444l-0.17,-4.679l-21.581,-11.458l-15.841,15.085l7.741,8.933l-19.909,10.103l44.032,6.372Z","style":"fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"},{"id":"lon","d":"M169.717,194.222l9.192,1.331l12.981,-7.991l8.689,-20.202l-10.648,-6.32l-14.486,8.826l-7.911,5.444l2.183,18.912Z","style":"fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"},{"id":"yor","d":"M189.931,161.04l-2.194,-13.777l-3.408,-8.63l-8.884,-1.331l-0.17,27.885l0.17,4.679l14.486,-8.826Z","style":"fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"},{"id":"lpl","d":"M175.445,137.302l-7.911,-14.09l-11.5,2.569l7.356,15.432l-9.696,12.516l21.581,11.458l0.17,-27.885Z","style":"fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"},{"id":"cly","d":"M167.534,123.212l3.263,-11.052l4.648,-13.686l-6.885,-1.722l-12.932,10.37l0.406,18.659l11.5,-2.569Z","style":"fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"},{"id":"edi","d":"M167.534,123.212l7.911,14.09l8.884,1.331l-2.004,-8.017l6.084,-17.747l-7.172,-12.948l-5.792,-1.447l-4.648,13.686l-3.263,11.052Z","style":"fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"},{"id":"gas","d":"M125.102,281.751l26.565,16.916l16,-25l14,0l-18.535,-25l-27.901,-2.479l-10.129,35.563Z","style":"fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"},{"id":"bre","d":"M163.132,248.667l11.766,-41.46l-9.129,2.26l-8.765,-5.273l-1.217,10.141l-37.479,-7.302l0,10.593l21.73,12.636l-4.807,15.926l27.901,2.479Z","style":"fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"},{"id":"mar","d":"M181.667,273.667l8,-5l2,-9l15,1l10,6l-1.219,27.026l-10.644,6.75l-29.906,-7.009l-9.129,18.692l-14.102,-13.459l16,-25l14,0Z","style":"fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"},{"id":"pic","d":"M209.667,211.667l-23.546,-10.718l-2.274,3.245l-8.949,3.013l-3.611,12.724l33.275,0.443l5.105,-8.707Z","style":"fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"},{"id":"pie","d":"M243.487,298.367l3.351,-3.7l3.829,-22l-3.829,-9l-4.171,7l-12,-6l-14,2l-1.219,27.026c0,0 27.559,4.456 28.039,4.674Z","style":"fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"},{"id":"ven","d":"M246.838,294.667l15.829,8l6,13.678l11,13.322l5.25,-7.346l-5.193,-15.128l-12.331,-13.759l0.973,-8.494l12.332,0l6.969,-14.273l-10,-4l-10.274,5l-8.726,5l-8,-4l-3.829,22Z","style":"fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"},{"id":"rom","d":"M279.667,329.667l8,7l-11.408,9.974l-21.779,-22.427l14.187,-7.869l11,13.322Z","style":"fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"},{"id":"apu","d":"M302.116,355.222l4.551,-4.668l8.16,10.709l11.304,-6.041l-21.582,-23.321l-19.632,-9.58l-5.25,7.346l8,7l14.449,18.555Z","style":"fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"},{"id":"nap","d":"M246.838,374.731l23.475,15.09l8.438,-14.441l-31.913,-0.649Zm40.829,-38.064l14.449,18.555l4.551,14.154l-24.346,14.604l-3.57,-8.6l11.034,-10.709l-5.193,-9.449l-8.333,-8.581l11.408,-9.974Z","style":"fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"},{"id":"tus","d":"M223.963,327.478l-2.337,-13.794l8.567,-6.491l0.711,9.152l-6.941,11.133Zm45.17,-11.133l-14.187,7.869l-7.642,-7.869l0,-6.815l-3.17,-11.363l3.17,-3.5l15.829,8l6,13.678Z","style":"fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"},{"id":"kie","d":"M240.667,178.667l9,-4l4.813,4l4.187,-5l-2.5,-5l12.5,1l6.896,9l-4.774,35l-14.622,6.564l-7.5,-13.564l-17.849,-9.425l12.85,-8.575l-3.001,-10Z","style":"fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"},{"id":"ber","d":"M276.259,214.667l7.813,-4.006l24.595,0l-2,-19.853l-21.277,-7.425l-9.813,-4.704l-4.504,34.988l5.186,1Z","style":"fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"},{"id":"pru","d":"M323.573,211.667l8.094,-9.955l25,-2.045l8,-15l-11.777,-10.637l-17.446,9.353l-28.777,7.425l2,19.853l14.906,1.006Z","style":"fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"},{"id":"sew","d":"M422.667,256.667l17.275,17.298l35.889,-9.138l-10.8,9.304l10.8,7.81l8.308,-0.333l15.849,-11.797l19.376,9.471l22.763,18.277l70.54,0.808l0,-11.579l-27.277,-27.621l-1.119,-23.886l-9.604,-8.614l-36,-13l-14,-25l-34,-4l-30,17l-3,22l-21,15l-14,18Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"liv","d":"M373.667,199.667l20,-11l3,-26l-24.407,-22.046l-17.501,13.374l-1.869,20.035l11.777,10.637l-4.364,8.181l13.364,6.819Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"fin","d":"M392.897,121.224l-23.277,1.614l-20.444,-18.173l5.583,-27.909l-9.153,-11.682l-14.939,-20.035l36.5,-5.372l25.5,43l0.23,38.557Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"con","d":"M405.868,336.408l7.799,-10.833l-1,-6.908l19.466,-2.322l8.972,5.638l21.522,0.333l8.04,25.351l-56.709,10.145l-3.676,-8.556l4.933,-10l-9.347,-2.848Z","style":"fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"},{"id":"smy","d":"M470.667,347.667l19.25,-9l19.75,1l24,-11.755l8.46,16.404l-27.285,20.259l-8.568,2.857l-6.286,-2.857l-22.271,9.386l-19.471,0l0,4.756l-17.654,4.292l-1.558,-9.048l-9.021,0l-12.981,-8.995l-3.074,-7.154l56.709,-10.145Z","style":"fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"},{"id":"ank","d":"M533.667,327.912l-2.062,-24.645l-15.206,8.249l-21.958,-8.308l-31.814,19.108l8.04,25.351l19.25,-9l19.75,1l24,-11.755Z","style":"fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"},{"id":"arm","d":"M542.127,344.316l70.54,15.351l0,-61.3l-70.54,-0.808l-10.522,5.708l2.062,24.645l8.46,16.404Z","style":"fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"},{"id":"syr","d":"M612.667,359.667l0,39l-96.268,0l-1.557,-34.092l27.285,-20.259l70.54,15.351Z","style":"fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"},{"id":"naf","d":"M7.237,398.667l68.279,-40.719l5.712,0l6.555,10.644l30.525,10.125l9.131,-7.788l72.356,3.079l-6.128,24.31l-186.43,0.349Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"por","d":"M56.564,339.256l-16.875,-5.193l24.144,-50.884l18.834,10.255l-26.103,45.822","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"tun","d":"M193.667,398.318l30,0.349l5.433,-19.95l-10.558,0l-5.69,-4.154l-13.057,-0.555l-6.128,24.31Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"bel","d":"M216.667,216.667l9.131,-7l0,-10l-15.241,-15.329l-15.422,6.47l-9.014,10.141l23.546,10.718l7,5Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"hol","d":"M225.798,209.667l5.02,-12.425l12.85,-8.575l-3.001,-10l-17.187,0.249l-12.923,5.422l15.241,15.329l0,10Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"rum","d":"M367.167,293.571l6.5,9.637l56.346,-6.812l9.929,-22.431l-17.275,-17.298l-26,-18l0,13l-8,10l12,8l-3,11.35l-30.5,12.554Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"bul","d":"M373.667,303.208l-4.768,33.2l18.078,1.223l18.891,-1.223l7.779,-10.971l-0.98,-6.77l19.466,-2.322l-2.12,-19.949l-56.346,6.812","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"gre","d":"M368.899,336.408l-23.946,18.814l17.114,17.075l-4.083,6.521l4.083,8.082l3.979,-8.183l3.57,9.481l4.219,-4.218l-0.815,-5.263l6.513,0l6.646,-9.849l-11.298,-6.247l-5.982,-15.818l10.235,6.247l7.843,-15.419l-18.078,-1.223Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"alb","d":"M349.25,317.035l-14.682,6.909l2.799,8.814l0.771,16.498l6.815,5.966l9.048,-7.109l-4.751,-31.078Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"den","d":"M256.167,168.667l-5.779,-21.098l5.46,-2.248l19.839,0.054l12.677,8.62l6.015,14.879l-18.802,9.805l-6.91,-9.012l-12.5,-1Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"swe","d":"M288.364,153.995l6.015,-8.521l-8.55,-29.509l8.55,-36.298l36.288,-34.628l14.939,20.035l-3.894,12.007l-18.498,31.153l7.789,15.902l-9.267,20.401l-15.069,18.485l-12.288,5.852l-6.015,-14.879Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"nor","d":"M285.829,115.965l-30.488,13.637l-8.503,-15.719l5.387,-31.709l100.144,-62.115l20.821,6.161l-6.023,13.447l-36.5,5.372l-36.218,34.561l-8.62,36.365Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"tri","d":"M312.917,259.167l4.75,16.5l11,3l2,12l10,5l8.583,21.368l-14.682,6.909l-44.783,-24.014l-9.087,-14.99l6.969,-14.273l8,-12l6,5l11.25,-4.5Z","style":"fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"}],"g":[{"id":"union_stp","path":[{"id":"main","d":"M396.667,162.667l-24.407,-22.046l30.137,-20.055l-9.5,0.658l-0.23,-38.557l-25.5,-43l6.023,-13.447l48.345,14.305l2.597,18.822l-31.154,5.727l22.067,17.314l30.705,-32.859l54.238,-48.862l112.679,0l0,51l-165,72l-2,25l-11,-4l-38,18Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"sc","d":"M392.667,82.667l55,41l-2,25l-11,-4l-38,18l-24.407,-22.046l30.137,-20.055l-9.5,0.658l-0.23,-38.557Z","style":"fill:none;stroke:white;stroke-width:1.33px;stroke-linecap:butt;"},{"id":"nc","d":"M392.667,82.667l-25.5,-43l6.023,-13.447l48.345,14.305l2.597,18.822l-31.154,5.727l22.067,17.314l29.856,-32.094l55.087,-49.627l112.679,0l0,51l-165,72l-55,-41Z","style":"fill:none;stroke:white;stroke-width:1.33px;stroke-linecap:butt;"}]},{"id":"union_spa","path":[{"id":"main1","serif:id":"main","d":"M165.769,312.126l-41.186,14.279l5.712,11.293l-22.587,14.279l-22.846,-3.894l-8.307,4.932l-9.866,-10.644l-10.125,-3.115l26.103,-45.822l-18.834,-10.255l16.356,-18.043l44.913,16.615l26.565,16.916l14.102,13.459Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"},{"id":"sc1","serif:id":"sc","d":"M109.334,302.971l-26.667,-9.537l-26.103,45.822l10.125,3.115l9.866,10.644l8.307,-4.932l22.846,3.894l22.587,-14.279l-5.712,-11.293l41.186,-14.279l-14.102,-13.459l-42.333,4.304Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"},{"id":"nc1","serif:id":"nc","d":"M125.102,281.751l26.565,16.916l-42.333,4.304l-26.667,-9.537l-18.834,-10.255l16.356,-18.043l44.913,16.615","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"}]}]},{"id":"land","path":[{"id":"bur","d":"M171.287,259.667l21.38,-19l17,-29l7,5l7,22l-17,22l-15,-1l-2,9l-8,5l-10.38,-14Z","style":"fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"},{"id":"par","d":"M204.562,220.374l-33.275,-0.443l-8.155,28.736l8.155,11l21.38,-19l11.895,-20.293Z","style":"fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"},{"id":"muc","d":"M223.667,238.667l23.171,7l23.951,6l7.962,-10l-11.358,-11l12.274,-8l-3.408,-8l-5.47,-1l-14.941,6.707l-14.181,0l-20.041,11.88l2.041,6.413Z","style":"fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"},{"id":"ruh","d":"M256.167,220.231l-7.5,-13.564l-17.849,-9.425l-5.02,12.425l-9.131,7l4.959,15.587l20.041,-11.88l14.5,-0.143Z","style":"fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"},{"id":"sil","d":"M279.667,222.667l23.232,-1l8.768,9l19,-1l-7.094,-18l-14.906,-1.006l-24.595,0l-7.813,4.006l3.408,8Z","style":"fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"},{"id":"tyr","d":"M248.705,246.134l-1.867,17.533l3.808,9.116l8.021,3.884l19,-10l10,4l8,-12l-3,-16l-13.916,-1l-7.678,9.643l-22.368,-5.176Z","style":"fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"},{"id":"boh","d":"M292.667,242.667l9,-8.147l18,2.147l-0.365,-6.402l-7.635,0.402l-8.768,-9l-23.232,1l-11.983,8.282l11.067,10.718l13.916,1Z","style":"fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"},{"id":"vie","d":"M295.667,258.667l6,5l20,-8l5,-5.147l7,-3.853l0,-5l-14,-5l-18,-2.147l-9,8.147l3,16Z","style":"fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"},{"id":"bud","d":"M340.667,295.667l25,-2l32,-12.65l3,-11.35l-12,-8l-26,-19l-29,4l-7,3.853l-4.515,4.647l-9.235,4l4.75,16.5l11,3l2,12l10,5Z","style":"fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"},{"id":"gal","d":"M330.667,229.667l15,-5l11,2.5l16,-3.5l6,5l18,10l0,13l-8,10l-26,-19l-29,4l0,-5l-14,-5l-0.365,-6.402l11.365,-0.598Z","style":"fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"},{"id":"war","d":"M330.667,229.667l15,-5l11,2.5l16,-3.5l6,5l2,-12l-7,-17l-13.364,-6.819l-3.636,6.819l-25,2.045l-8.094,9.955l7.094,18Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"ukr","d":"M396.667,238.667l26,18l14,-18l21,-15l3,-22l-48.896,4l-31.104,11l-2,12l18,10Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"mos","d":"M396.667,162.667l38,-18l11,4l2,-25l165,-72l-0.081,159.59l-28.315,24.024l-9.604,-8.614l-36,-13l-14,-25l-34,-4l-30,17l-48.896,4l-31.104,11l-7,-17l20,-11l3,-26Z","style":"fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"},{"id":"ser","d":"M349.25,317.035l4.751,31.078l14.898,-11.705l4.768,-33.2l-6.5,-9.637l-26.5,2.096l8.583,21.368Z","style":"fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"}]},{"id":"unpassable","path":[{"id":"unp5","d":"M111.412,157.828l28.626,2.065l7.477,-20.725l-0.406,-9.736l-15.009,-5.273l-23.122,25.15l2.434,8.519Z","style":"fill:white;stroke:white;stroke-width:1.33px;"},{"id":"unp4","d":"M211.383,339.15l0.95,-7.423l11.163,0l0,18.043l-8.048,4.284l-4.065,-14.904Z","style":"fill:white;stroke:white;stroke-width:1.33px;"},{"id":"unp3","d":"M384.219,398.667l24.635,0l4.024,-8.519l-28.659,2.594l0,5.925Z","style":"fill:white;stroke:white;stroke-width:1.33px;"},{"id":"unp2","d":"M206.667,260.667l10,6l14,-2l12,6l4.171,-7l1.867,-17.533l-25.038,-7.467l-17,22Z","style":"fill:white;stroke:white;stroke-width:1.33px;"},{"id":"unp1","d":"M612.667,286.788l-27.565,-27.913l-0.831,-23.594l28.396,-24.092l0,75.599Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"}]}]},{"id":"names","text":[{"#text":"bur","x":"196.346px","y":"249.341px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"par","x":"172.23px","y":"233.226px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"muc","x":"235.941px","y":"234.455px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ruh","x":"227.013px","y":"216.737px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"sil","x":"290.868px","y":"218.347px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"tyr","x":"252.111px","y":"259.369px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"boh","x":"274.995px","y":"234.203px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"vie","x":"306.499px","y":"244.482px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"bud","x":"360.282px","y":"273.63px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"gal","x":"374.175px","y":"243.877px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"war","x":"343.23px","y":"218.38px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ukr","x":"410.814px","y":"225.733px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"mos","x":"505.185px","y":"164.129px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ser","x":"356.185px","y":"328.418px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"ska","x":"265.272px","y":"136.144px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"nws","x":"202.034px","y":"40.624px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"nao","x":"64.945px","y":"94.133px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"irs","x":"105.63px","y":"178.818px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"cha","x":"126.856px","y":"198.276px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"nse","x":"196.7px","y":"139.543px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"bas","x":"306.564px","y":"177.547px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"gob","x":"341.804px","y":"122.269px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"bar","x":"398.464px","y":"17.932px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"mao","x":"33.119px","y":"237.551px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"wem","x":"127.202px","y":"356.508px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"gol","x":"182.037px","y":"318.92px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"tys","x":"234.662px","y":"350.317px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"ion","x":"312.051px","y":"386.58px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"ads","x":"293.477px","y":"316.443px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"aeg","x":"392.889px","y":"371.986px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"eme","x":"457.63px","y":"390.09px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"bls","x":"447.017px","y":"294.686px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"hel","x":"238.856px","y":"161.884px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"wal","x":"152.125px","y":"172.309px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"lon","x":"184.951px","y":"170.839px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"yor","x":"177.012px","y":"159.75px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"lpl","x":"165.948px","y":"148.066px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"cly","x":"156.624px","y":"120.01px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"edi","x":"173.959px","y":"112.34px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"gas","x":"141.866px","y":"269.067px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"bre","x":"146.819px","y":"225.906px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"mar","x":"182.904px","y":"284.987px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"pic","x":"178.442px","y":"215.333px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"pie","x":"222.704px","y":"282.864px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ven","x":"254.898px","y":"285.341px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"rom","x":"266.28px","y":"336.148px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"apu","x":"300.535px","y":"343.714px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"nap","x":"292.349px","y":"369.208px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"tus","x":"252.702px","y":"308.564px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"kie","x":"249.385px","y":"190.822px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ber","x":"285.868px","y":"197.456px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"pru","x":"316.824px","y":"197.456px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"sew","x":"492.392px","y":"229.414px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"liv","x":"368.232px","y":"169.264px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"stp","x":"448.385px","y":"86.347px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"(sc)","x":"383.538px","y":"140.597px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"(nc)","x":"432.541px","y":"71.961px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ﬁn","x":"365.468px","y":"96.85px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"con","x":"435.118px","y":"338.967px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"smy","x":"455.571px","y":"362.183px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"ank","x":"487.079px","y":"325.147px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"arm","x":"559.493px","y":"318.514px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"syr","x":"533.513px","y":"378.214px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"},{"#text":"naf","x":"70.009px","y":"382.636px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"spa","x":"91.65px","y":"319.755px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"(nc)","x":"84.524px","y":"283.782px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"(sc)","x":"84.597px","y":"340.363px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"por","x":"52.14px","y":"321.433px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"tun","x":"200.457px","y":"387.967px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"bel","x":"193.939px","y":"201.957px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"hol","x":"231.536px","y":"189.11px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"rum","x":"406.451px","y":"275.507px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"bul","x":"380.888px","y":"313.212px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"gre","x":"360.923px","y":"358.174px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"alb","x":"341.228px","y":"348.109px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"den","x":"264.659px","y":"155.059px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"swe","x":"301.959px","y":"97.92px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"nor","x":"264.63px","y":"101.066px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"},{"#text":"tri","x":"295.693px","y":"281.929px","style":"font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"}]},{"id":"units","rect":[{"x":160.841,"y":105.18,"width":8,"height":8},{"x":150.271,"y":177.993,"width":8,"height":8},{"x":144.064,"y":196.448,"width":8,"height":8},{"x":118.898,"y":167.591,"width":8,"height":8},{"x":79.325,"y":102.391,"width":8,"height":8},{"x":60.975,"y":224.025,"width":8,"height":8},{"x":147.755,"y":232.309,"width":8,"height":8},{"x":143.98,"y":276.589,"width":8,"height":8},{"x":201.567,"y":277.869,"width":8,"height":8},{"x":234.367,"y":279.945,"width":8,"height":8},{"x":255.129,"y":287.285,"width":8,"height":8},{"x":251.983,"y":309.934,"width":8,"height":8},{"x":262.888,"y":322.098,"width":8,"height":8},{"x":292.458,"y":331.325,"width":8,"height":8},{"x":286.796,"y":349.78,"width":8,"height":8},{"x":98.052,"y":280.993,"width":8,"height":8},{"x":98.01,"y":335.31,"width":8,"height":8},{"x":153.679,"y":353.765,"width":8,"height":8},{"x":199.816,"y":313.919,"width":8,"height":8},{"x":255.391,"y":350.881,"width":8,"height":8},{"x":334.296,"y":374.998,"width":8,"height":8},{"x":309.13,"y":320.997,"width":8,"height":8},{"x":394.065,"y":352.192,"width":8,"height":8},{"x":486.435,"y":381.552,"width":8,"height":8},{"x":471.231,"y":292.947,"width":8,"height":8},{"x":94.906,"y":379.35,"width":8,"height":8},{"x":209.5,"y":388.926,"width":8,"height":8},{"x":63.449,"y":294.625,"width":8,"height":8},{"x":203.119,"y":230.033,"width":8,"height":8},{"x":175.227,"y":236.114,"width":8,"height":8},{"x":190.746,"y":209.061,"width":8,"height":8},{"x":211.298,"y":199.834,"width":8,"height":8},{"x":223.48,"y":187.578,"width":8,"height":8},{"x":255.968,"y":196.059,"width":8,"height":8},{"x":255.467,"y":226.879,"width":8,"height":8},{"x":238.771,"y":208.642,"width":8,"height":8},{"x":277.988,"y":198.995,"width":8,"height":8},{"x":309.878,"y":216.505,"width":8,"height":8},{"x":338.189,"y":186.621,"width":8,"height":8},{"x":290.741,"y":224.632,"width":8,"height":8},{"x":277.896,"y":251.895,"width":8,"height":8},{"x":302.014,"y":247.7,"width":8,"height":8},{"x":311.189,"y":293.051,"width":8,"height":8},{"x":340.18,"y":323.868,"width":8,"height":8},{"x":355.279,"y":304.364,"width":8,"height":8},{"x":422.67,"y":277.698,"width":8,"height":8},{"x":390.913,"y":324.991,"width":8,"height":8},{"x":418.744,"y":302.572,"width":8,"height":8},{"x":360.208,"y":360.584,"width":8,"height":8},{"x":340.024,"y":264.74,"width":8,"height":8},{"x":343.432,"y":231.185,"width":8,"height":8},{"x":359.161,"y":209.689,"width":8,"height":8},{"x":371.482,"y":178.232,"width":8,"height":8},{"x":445.584,"y":59.523,"width":8,"height":8},{"x":397.266,"y":129.819,"width":8,"height":8},{"x":427.843,"y":15.651,"width":8,"height":8},{"x":231.34,"y":19.216,"width":8,"height":8},{"x":214.353,"y":126.403,"width":8,"height":8},{"x":279.364,"y":133.953,"width":8,"height":8},{"x":328.018,"y":160.377,"width":8,"height":8},{"x":344.281,"y":128.081,"width":8,"height":8},{"x":371.744,"y":103.783,"width":8,"height":8},{"x":302.014,"y":109.813,"width":8,"height":8},{"x":270.852,"y":80.977,"width":8,"height":8},{"x":260.932,"y":158.158,"width":8,"height":8},{"x":234.544,"y":165.763,"width":8,"height":8},{"x":394.026,"y":221.486,"width":8,"height":8},{"x":492.592,"y":242.982,"width":8,"height":8},{"x":559.072,"y":326.448,"width":8,"height":8},{"x":505.385,"y":318.689,"width":8,"height":8},{"x":487.14,"y":351.404,"width":8,"height":8},{"x":446.832,"y":327.27,"width":8,"height":8},{"x":551.522,"y":367.972,"width":8,"height":8},{"x":452.195,"y":169.58,"width":8,"height":8},{"x":183.782,"y":173.507,"width":8,"height":8},{"x":177.283,"y":145.781,"width":8,"height":8},{"x":175.236,"y":114.676,"width":8,"height":8},{"x":164.57,"y":133.982,"width":8,"height":8}]},{"id":"scs","circle":[{"cx":351.949,"cy":303.97,"r":2.987,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":287.466,"cy":284.058,"r":3,"style":"fill:white;stroke:black;stroke-width:1.33px;"},{"cx":270.276,"cy":279.168,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":301.84,"cy":243.455,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":264.2,"cy":241.677,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":292.208,"cy":203.445,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":337.404,"cy":214.707,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":263.904,"cy":185.514,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":228.34,"cy":184.032,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":207.001,"cy":194.85,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":179.853,"cy":181.335,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":168.57,"cy":156.127,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":176.055,"cy":127.984,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":186.551,"cy":226.562,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":195.739,"cy":291.171,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":264.971,"cy":325.431,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":213.995,"cy":381.801,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":286.49,"cy":346.066,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":97.64,"cy":305.693,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":56.138,"cy":311.472,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":126.832,"cy":214.114,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":331.324,"cy":259.575,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":378.756,"cy":320.071,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":408.559,"cy":281.418,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":375.355,"cy":368.584,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":426.268,"cy":365.584,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":441.551,"cy":328.267,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":483.459,"cy":330.632,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":480.459,"cy":275.323,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":471.777,"cy":159.553,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":409.84,"cy":125.111,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":323.012,"cy":120.481,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":278.441,"cy":111.508,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"},{"cx":277.068,"cy":163.925,"r":3,"style":"fill:white;stroke:black;stroke-width:0.67px;"}]},{"id":"passthroughs","g":{"id":"water1","serif:id":"water","path":[{"d":"M280.068,148.354l1.13,8.933l7.265,14.672l5.986,-3.122l-6.085,-14.842l-8.296,-5.641Z","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"},{"d":"M413.062,338.6l21.661,-20.628l6.382,4.011l-30.823,27.273l4.933,-10l-2.153,-0.656","style":"fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"}]}}]}}
+{
+    "svg": {
+        "width": "100%",
+        "height": "100%",
+        "viewBox": "0 0 614 400",
+        "version": 1.1,
+        "xmlns": "http://www.w3.org/2000/svg",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink",
+        "xml:space": "preserve",
+        "xmlns:serif": "http://www.serif.com/",
+        "style": "fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;",
+        "g": [
+            {
+                "id": "tiles",
+                "g": [
+                    {
+                        "id": "water",
+                        "path": [
+                            {
+                                "id": "ska",
+                                "d": "M255.848,145.321l19.839,0.054l12.677,8.62l6.085,-8.62l-8.62,-29.41l-30.488,13.637l0.507,15.719Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "nws",
+                                "d": "M140.038,0.667l34.86,68.197l-6.338,27.888l12.677,3.169l70.988,-17.747l100.144,-62.115l1.268,-19.392l-213.599,0Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "nao",
+                                "d": "M140.038,0.667l-139.371,0l0,170.547l70.181,12.169l40.564,-25.555l-2.434,-8.519l23.122,-25.15l15.009,5.273l0.406,9.736l15.875,2.045l-7.356,-15.432l-0.406,-18.659l12.932,-10.37l6.338,-27.888l-34.86,-68.197",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "irs",
+                                "d": "M70.848,183.383l28.395,12.17l26.442,-7.703l19.909,-10.103l-7.741,-8.933l15.841,-15.085l9.696,-12.516l-15.875,-2.045l-7.477,20.725l-28.626,-2.065l-40.564,25.555",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "cha",
+                                "d": "M99.243,195.553l19.065,11.48l37.479,7.302l1.217,-10.141l8.765,5.273l16.386,-4.056l12.98,-14.603l-3.245,-3.246l-12.981,7.991l-53.224,-7.703l-26.442,7.703Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "nse",
+                                "d": "M195.135,190.808l28.345,-11.892l6.508,-22.947l25.86,-10.648l-0.507,-15.719l-8.503,-15.719l5.387,-31.709l-70.988,17.747l7.172,12.948l-6.084,17.747l7.606,30.424l10.648,6.32l-8.689,20.202l3.245,3.246Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bas",
+                                "d": "M294.449,168.837l-18.888,9.842l9.829,4.704l21.277,7.425l28.777,-7.425l17.446,-9.353l1.869,-20.035l-33.023,-9.458l-15.069,18.485l-12.218,5.815Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "gob",
+                                "d": "M321.736,144.537l9.267,-20.401l-7.789,-15.902l18.498,-31.153l3.894,-12.007l9.153,11.682l-5.583,27.909l20.444,18.173l32.777,-2.272l-36.022,23.971l-11.616,9.458l-33.023,-9.458",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bar",
+                                "d": "M352.369,20.059l69.166,20.466l2.597,18.822l-31.154,5.727l22.067,17.314l29.856,-32.094l55.087,-49.627l-146.351,0l-1.268,19.392Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "mao",
+                                "d": "M118.308,207.033l0,10.593l21.73,11.683l-14.936,52.442l-44.913,-16.615l-16.356,18.043l-24.144,50.884l27,8.308l9.866,10.644l-1.039,4.933l-68.279,40.719l-6.57,0l0,-227.453l70.181,12.169l28.395,12.17l19.065,11.48Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "wem",
+                                "d": "M75.516,357.948l5.712,0l6.555,10.644l30.525,10.125l9.131,-7.788l85.413,3.634l2.596,-20.509l-3.634,-14.798l-30.577,-7.529l-50.942,5.971l-22.587,14.279l-22.846,-3.894l-8.307,4.932l-1.039,4.933Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "gol",
+                                "d": "M211.814,339.256l0.519,-7.529l11.163,0l0,-7.918l-2.336,-10.125l8.567,-6.491l17.111,2.337l-3.351,-11.163l-28.039,-4.674l-10.644,6.75l-29.906,-7.009l-9.129,18.692l-41.186,14.279l5.712,11.293l50.942,-5.971l30.577,7.529Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "tys",
+                                "d": "M215.448,354.054l8.048,-4.284l0,-18.043l0,-4.249l6.941,-11.133l-0.71,-9.152l17.111,2.337l0,6.815l37.754,38.877l5.193,9.449l-11.034,10.709l-31.913,-0.649l-17.738,3.986l-10.558,0l-5.69,-4.154l2.596,-20.509Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ion",
+                                "d": "M229.1,378.717l-4.544,19.95l159.663,0l0,-5.925l-10.384,-8.762l-4.219,4.218l-3.57,-9.481l-3.979,8.183l-4.134,-8.183l4.134,-6.42l-17.114,-17.075l-6.815,-5.966l-12.007,5.966l-11.304,6.041l-8.16,-10.709l-4.551,4.668l4.551,14.154l-24.346,14.604l-3.57,-8.6l-8.438,14.441l-23.475,-15.09l-17.738,3.986Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ads",
+                                "d": "M338.138,349.256l-0.771,-16.498l-2.799,-8.814l-44.783,-24.014l-9.087,-14.99l-12.332,0l-0.973,8.494l12.331,13.759l5.193,15.128l19.471,9.406l21.743,23.495l12.007,-5.966Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "aeg",
+                                "d": "M373.835,383.98l-0.815,-5.263l6.513,0l6.646,-9.849l-11.298,-6.247l-5.982,-15.818l10.235,6.247l7.843,-15.419l18.891,-1.223l9.347,2.848l-4.933,10l6.75,15.71l12.981,8.995l-17.135,16.187l-28.659,2.594l-10.384,-8.762Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "eme",
+                                "d": "M412.878,390.148l-4.024,8.519l107.545,0l-1.557,-34.092l-8.568,2.857l-6.286,-2.857l-22.271,9.386l-19.471,0l0,4.756l-17.654,4.292l-1.558,-9.048l-9.021,0l-17.135,16.187Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bls",
+                                "d": "M432.133,316.345l8.972,5.638l21.522,0.333l31.814,-19.108l21.958,8.308l25.728,-13.957l-22.763,-18.277l-19.376,-9.471l-15.849,11.797l-8.308,0.333l-10.8,-7.81l10.8,-9.304l-35.889,9.138l-9.929,22.431l2.12,19.949Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "hel",
+                                "d": "M250.388,147.569l-20.4,8.4l-6.508,22.947l17.187,-0.249l9,-4l4.813,4l4.187,-5l-2.5,-5l-5.779,-21.098Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "coast",
+                        "path": [
+                            {
+                                "id": "wal",
+                                "d": "M169.717,194.222l-2.183,-18.912l7.911,-5.444l-0.17,-4.679l-21.581,-11.458l-15.841,15.085l7.741,8.933l-19.909,10.103l44.032,6.372Z",
+                                "style": "fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "lon",
+                                "d": "M169.717,194.222l9.192,1.331l12.981,-7.991l8.689,-20.202l-10.648,-6.32l-14.486,8.826l-7.911,5.444l2.183,18.912Z",
+                                "style": "fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "yor",
+                                "d": "M189.931,161.04l-2.194,-13.777l-3.408,-8.63l-8.884,-1.331l-0.17,27.885l0.17,4.679l14.486,-8.826Z",
+                                "style": "fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "lpl",
+                                "d": "M175.445,137.302l-7.911,-14.09l-11.5,2.569l7.356,15.432l-9.696,12.516l21.581,11.458l0.17,-27.885Z",
+                                "style": "fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "cly",
+                                "d": "M167.534,123.212l3.263,-11.052l4.648,-13.686l-6.885,-1.722l-12.932,10.37l0.406,18.659l11.5,-2.569Z",
+                                "style": "fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "edi",
+                                "d": "M167.534,123.212l7.911,14.09l8.884,1.331l-2.004,-8.017l6.084,-17.747l-7.172,-12.948l-5.792,-1.447l-4.648,13.686l-3.263,11.052Z",
+                                "style": "fill:rgb(219,10,91);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "gas",
+                                "d": "M125.102,281.751l26.565,16.916l16,-25l14,0l-18.535,-25l-27.901,-2.479l-10.129,35.563Z",
+                                "style": "fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bre",
+                                "d": "M163.132,248.667l11.766,-41.46l-9.129,2.26l-8.765,-5.273l-1.217,10.141l-37.479,-7.302l0,10.593l21.73,12.636l-4.807,15.926l27.901,2.479Z",
+                                "style": "fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "mar",
+                                "d": "M181.667,273.667l8,-5l2,-9l15,1l10,6l-1.219,27.026l-10.644,6.75l-29.906,-7.009l-9.129,18.692l-14.102,-13.459l16,-25l14,0Z",
+                                "style": "fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "pic",
+                                "d": "M209.667,211.667l-23.546,-10.718l-2.274,3.245l-8.949,3.013l-3.611,12.724l33.275,0.443l5.105,-8.707Z",
+                                "style": "fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "pie",
+                                "d": "M243.487,298.367l3.351,-3.7l3.829,-22l-3.829,-9l-4.171,7l-12,-6l-14,2l-1.219,27.026c0,0 27.559,4.456 28.039,4.674Z",
+                                "style": "fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ven",
+                                "d": "M246.838,294.667l15.829,8l6,13.678l11,13.322l5.25,-7.346l-5.193,-15.128l-12.331,-13.759l0.973,-8.494l12.332,0l6.969,-14.273l-10,-4l-10.274,5l-8.726,5l-8,-4l-3.829,22Z",
+                                "style": "fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "rom",
+                                "d": "M279.667,329.667l8,7l-11.408,9.974l-21.779,-22.427l14.187,-7.869l11,13.322Z",
+                                "style": "fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "apu",
+                                "d": "M302.116,355.222l4.551,-4.668l8.16,10.709l11.304,-6.041l-21.582,-23.321l-19.632,-9.58l-5.25,7.346l8,7l14.449,18.555Z",
+                                "style": "fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "nap",
+                                "d": "M246.838,374.731l23.475,15.09l8.438,-14.441l-31.913,-0.649Zm40.829,-38.064l14.449,18.555l4.551,14.154l-24.346,14.604l-3.57,-8.6l11.034,-10.709l-5.193,-9.449l-8.333,-8.581l11.408,-9.974Z",
+                                "style": "fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "tus",
+                                "d": "M223.963,327.478l-2.337,-13.794l8.567,-6.491l0.711,9.152l-6.941,11.133Zm45.17,-11.133l-14.187,7.869l-7.642,-7.869l0,-6.815l-3.17,-11.363l3.17,-3.5l15.829,8l6,13.678Z",
+                                "style": "fill:rgb(76,217,100);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "kie",
+                                "d": "M240.667,178.667l9,-4l4.813,4l4.187,-5l-2.5,-5l12.5,1l6.896,9l-4.774,35l-14.622,6.564l-7.5,-13.564l-17.849,-9.425l12.85,-8.575l-3.001,-10Z",
+                                "style": "fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ber",
+                                "d": "M276.259,214.667l7.813,-4.006l24.595,0l-2,-19.853l-21.277,-7.425l-9.813,-4.704l-4.504,34.988l5.186,1Z",
+                                "style": "fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "pru",
+                                "d": "M323.573,211.667l8.094,-9.955l25,-2.045l8,-15l-11.777,-10.637l-17.446,9.353l-28.777,7.425l2,19.853l14.906,1.006Z",
+                                "style": "fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "sew",
+                                "d": "M422.667,256.667l17.275,17.298l35.889,-9.138l-10.8,9.304l10.8,7.81l8.308,-0.333l15.849,-11.797l19.376,9.471l22.763,18.277l70.54,0.808l0,-11.579l-27.277,-27.621l-1.119,-23.886l-9.604,-8.614l-36,-13l-14,-25l-34,-4l-30,17l-3,22l-21,15l-14,18Z",
+                                "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "liv",
+                                "d": "M373.667,199.667l20,-11l3,-26l-24.407,-22.046l-17.501,13.374l-1.869,20.035l11.777,10.637l-4.364,8.181l13.364,6.819Z",
+                                "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "fin",
+                                "d": "M392.897,121.224l-23.277,1.614l-20.444,-18.173l5.583,-27.909l-9.153,-11.682l-14.939,-20.035l36.5,-5.372l25.5,43l0.23,38.557Z",
+                                "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "con",
+                                "d": "M405.868,336.408l7.799,-10.833l-1,-6.908l19.466,-2.322l8.972,5.638l21.522,0.333l8.04,25.351l-56.709,10.145l-3.676,-8.556l4.933,-10l-9.347,-2.848Z",
+                                "style": "fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "smy",
+                                "d": "M470.667,347.667l19.25,-9l19.75,1l24,-11.755l8.46,16.404l-27.285,20.259l-8.568,2.857l-6.286,-2.857l-22.271,9.386l-19.471,0l0,4.756l-17.654,4.292l-1.558,-9.048l-9.021,0l-12.981,-8.995l-3.074,-7.154l56.709,-10.145Z",
+                                "style": "fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ank",
+                                "d": "M533.667,327.912l-2.062,-24.645l-15.206,8.249l-21.958,-8.308l-31.814,19.108l8.04,25.351l19.25,-9l19.75,1l24,-11.755Z",
+                                "style": "fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "arm",
+                                "d": "M542.127,344.316l70.54,15.351l0,-61.3l-70.54,-0.808l-10.522,5.708l2.062,24.645l8.46,16.404Z",
+                                "style": "fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "syr",
+                                "d": "M612.667,359.667l0,39l-96.268,0l-1.557,-34.092l27.285,-20.259l70.54,15.351Z",
+                                "style": "fill:rgb(247,202,24);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "naf",
+                                "d": "M7.237,398.667l68.279,-40.719l5.712,0l6.555,10.644l30.525,10.125l9.131,-7.788l72.356,3.079l-6.128,24.31l-186.43,0.349Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "por",
+                                "d": "M56.564,339.256l-16.875,-5.193l24.144,-50.884l18.834,10.255l-26.103,45.822",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "tun",
+                                "d": "M193.667,398.318l30,0.349l5.433,-19.95l-10.558,0l-5.69,-4.154l-13.057,-0.555l-6.128,24.31Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bel",
+                                "d": "M216.667,216.667l9.131,-7l0,-10l-15.241,-15.329l-15.422,6.47l-9.014,10.141l23.546,10.718l7,5Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "hol",
+                                "d": "M225.798,209.667l5.02,-12.425l12.85,-8.575l-3.001,-10l-17.187,0.249l-12.923,5.422l15.241,15.329l0,10Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "rum",
+                                "d": "M367.167,293.571l6.5,9.637l56.346,-6.812l9.929,-22.431l-17.275,-17.298l-26,-18l0,13l-8,10l12,8l-3,11.35l-30.5,12.554Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bul",
+                                "d": "M373.667,303.208l-4.768,33.2l18.078,1.223l18.891,-1.223l7.779,-10.971l-0.98,-6.77l19.466,-2.322l-2.12,-19.949l-56.346,6.812",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "gre",
+                                "d": "M368.899,336.408l-23.946,18.814l17.114,17.075l-4.083,6.521l4.083,8.082l3.979,-8.183l3.57,9.481l4.219,-4.218l-0.815,-5.263l6.513,0l6.646,-9.849l-11.298,-6.247l-5.982,-15.818l10.235,6.247l7.843,-15.419l-18.078,-1.223Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "alb",
+                                "d": "M349.25,317.035l-14.682,6.909l2.799,8.814l0.771,16.498l6.815,5.966l9.048,-7.109l-4.751,-31.078Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "den",
+                                "d": "M256.167,168.667l-5.779,-21.098l5.46,-2.248l19.839,0.054l12.677,8.62l6.015,14.879l-18.802,9.805l-6.91,-9.012l-12.5,-1Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "swe",
+                                "d": "M288.364,153.995l6.015,-8.521l-8.55,-29.509l8.55,-36.298l36.288,-34.628l14.939,20.035l-3.894,12.007l-18.498,31.153l7.789,15.902l-9.267,20.401l-15.069,18.485l-12.288,5.852l-6.015,-14.879Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "nor",
+                                "d": "M285.829,115.965l-30.488,13.637l-8.503,-15.719l5.387,-31.709l100.144,-62.115l20.821,6.161l-6.023,13.447l-36.5,5.372l-36.218,34.561l-8.62,36.365Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "tri",
+                                "d": "M312.917,259.167l4.75,16.5l11,3l2,12l10,5l8.583,21.368l-14.682,6.909l-44.783,-24.014l-9.087,-14.99l6.969,-14.273l8,-12l6,5l11.25,-4.5Z",
+                                "style": "fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"
+                            }
+                        ],
+                        "g": [
+                            {
+                                "id": "union_stp",
+                                "path": [
+                                    {
+                                        "id": "stp",
+                                        "d": "M396.667,162.667l-24.407,-22.046l30.137,-20.055l-9.5,0.658l-0.23,-38.557l-25.5,-43l6.023,-13.447l48.345,14.305l2.597,18.822l-31.154,5.727l22.067,17.314l30.705,-32.859l54.238,-48.862l112.679,0l0,51l-165,72l-2,25l-11,-4l-38,18Z",
+                                        "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                                    },
+                                    {
+                                        "id": "sc",
+                                        "d": "M392.667,82.667l55,41l-2,25l-11,-4l-38,18l-24.407,-22.046l30.137,-20.055l-9.5,0.658l-0.23,-38.557Z",
+                                        "style": "fill:none;stroke:white;stroke-width:1.33px;stroke-linecap:butt;"
+                                    },
+                                    {
+                                        "id": "nc",
+                                        "d": "M392.667,82.667l-25.5,-43l6.023,-13.447l48.345,14.305l2.597,18.822l-31.154,5.727l22.067,17.314l29.856,-32.094l55.087,-49.627l112.679,0l0,51l-165,72l-55,-41Z",
+                                        "style": "fill:none;stroke:white;stroke-width:1.33px;stroke-linecap:butt;"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "union_spa",
+                                "path": [
+                                    {
+                                        "id": "spa",
+                                        "d": "M165.769,312.126l-41.186,14.279l5.712,11.293l-22.587,14.279l-22.846,-3.894l-8.307,4.932l-9.866,-10.644l-10.125,-3.115l26.103,-45.822l-18.834,-10.255l16.356,-18.043l44.913,16.615l26.565,16.916l14.102,13.459Z",
+                                        "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                                    },
+                                    {
+                                        "id": "sc1",
+                                        "serif:id": "sc",
+                                        "d": "M109.334,302.971l-26.667,-9.537l-26.103,45.822l10.125,3.115l9.866,10.644l8.307,-4.932l22.846,3.894l22.587,-14.279l-5.712,-11.293l41.186,-14.279l-14.102,-13.459l-42.333,4.304Z",
+                                        "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"
+                                    },
+                                    {
+                                        "id": "nc1",
+                                        "serif:id": "nc",
+                                        "d": "M125.102,281.751l26.565,16.916l-42.333,4.304l-26.667,-9.537l-18.834,-10.255l16.356,-18.043l44.913,16.615",
+                                        "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "land",
+                        "path": [
+                            {
+                                "id": "bur",
+                                "d": "M171.287,259.667l21.38,-19l17,-29l7,5l7,22l-17,22l-15,-1l-2,9l-8,5l-10.38,-14Z",
+                                "style": "fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "par",
+                                "d": "M204.562,220.374l-33.275,-0.443l-8.155,28.736l8.155,11l21.38,-19l11.895,-20.293Z",
+                                "style": "fill:rgb(34,167,240);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "muc",
+                                "d": "M223.667,238.667l23.171,7l23.951,6l7.962,-10l-11.358,-11l12.274,-8l-3.408,-8l-5.47,-1l-14.941,6.707l-14.181,0l-20.041,11.88l2.041,6.413Z",
+                                "style": "fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ruh",
+                                "d": "M256.167,220.231l-7.5,-13.564l-17.849,-9.425l-5.02,12.425l-9.131,7l4.959,15.587l20.041,-11.88l14.5,-0.143Z",
+                                "style": "fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "sil",
+                                "d": "M279.667,222.667l23.232,-1l8.768,9l19,-1l-7.094,-18l-14.906,-1.006l-24.595,0l-7.813,4.006l3.408,8Z",
+                                "style": "fill:rgb(248,148,6);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "tyr",
+                                "d": "M248.705,246.134l-1.867,17.533l3.808,9.116l8.021,3.884l19,-10l10,4l8,-12l-3,-16l-13.916,-1l-7.678,9.643l-22.368,-5.176Z",
+                                "style": "fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "boh",
+                                "d": "M292.667,242.667l9,-8.147l18,2.147l-0.365,-6.402l-7.635,0.402l-8.768,-9l-23.232,1l-11.983,8.282l11.067,10.718l13.916,1Z",
+                                "style": "fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "vie",
+                                "d": "M295.667,258.667l6,5l20,-8l5,-5.147l7,-3.853l0,-5l-14,-5l-18,-2.147l-9,8.147l3,16Z",
+                                "style": "fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "bud",
+                                "d": "M340.667,295.667l25,-2l32,-12.65l3,-11.35l-12,-8l-26,-19l-29,4l-7,3.853l-4.515,4.647l-9.235,4l4.75,16.5l11,3l2,12l10,5Z",
+                                "style": "fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "gal",
+                                "d": "M330.667,229.667l15,-5l11,2.5l16,-3.5l6,5l18,10l0,13l-8,10l-26,-19l-29,4l0,-5l-14,-5l-0.365,-6.402l11.365,-0.598Z",
+                                "style": "fill:rgb(242,38,19);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "war",
+                                "d": "M330.667,229.667l15,-5l11,2.5l16,-3.5l6,5l2,-12l-7,-17l-13.364,-6.819l-3.636,6.819l-25,2.045l-8.094,9.955l7.094,18Z",
+                                "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ukr",
+                                "d": "M396.667,238.667l26,18l14,-18l21,-15l3,-22l-48.896,4l-31.104,11l-2,12l18,10Z",
+                                "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "mos",
+                                "d": "M396.667,162.667l38,-18l11,4l2,-25l165,-72l-0.081,159.59l-28.315,24.024l-9.604,-8.614l-36,-13l-14,-25l-34,-4l-30,17l-48.896,4l-31.104,11l-7,-17l20,-11l3,-26Z",
+                                "style": "fill:rgb(154,18,179);stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "ser",
+                                "d": "M349.25,317.035l4.751,31.078l14.898,-11.705l4.768,-33.2l-6.5,-9.637l-26.5,2.096l8.583,21.368Z",
+                                "style": "fill:rgb(231,231,231);stroke:white;stroke-width:1.33px;"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "unpassable",
+                        "path": [
+                            {
+                                "id": "unp5",
+                                "d": "M111.412,157.828l28.626,2.065l7.477,-20.725l-0.406,-9.736l-15.009,-5.273l-23.122,25.15l2.434,8.519Z",
+                                "style": "fill:white;stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "unp4",
+                                "d": "M211.383,339.15l0.95,-7.423l11.163,0l0,18.043l-8.048,4.284l-4.065,-14.904Z",
+                                "style": "fill:white;stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "unp3",
+                                "d": "M384.219,398.667l24.635,0l4.024,-8.519l-28.659,2.594l0,5.925Z",
+                                "style": "fill:white;stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "unp2",
+                                "d": "M206.667,260.667l10,6l14,-2l12,6l4.171,-7l1.867,-17.533l-25.038,-7.467l-17,22Z",
+                                "style": "fill:white;stroke:white;stroke-width:1.33px;"
+                            },
+                            {
+                                "id": "unp1",
+                                "d": "M612.667,286.788l-27.565,-27.913l-0.831,-23.594l28.396,-24.092l0,75.599Z",
+                                "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "names",
+                "text": [
+                    {
+                        "#text": "bur",
+                        "x": "196.346px",
+                        "y": "249.341px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "par",
+                        "x": "172.23px",
+                        "y": "233.226px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "muc",
+                        "x": "235.941px",
+                        "y": "234.455px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ruh",
+                        "x": "227.013px",
+                        "y": "216.737px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "sil",
+                        "x": "290.868px",
+                        "y": "218.347px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "tyr",
+                        "x": "252.111px",
+                        "y": "259.369px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "boh",
+                        "x": "274.995px",
+                        "y": "234.203px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "vie",
+                        "x": "306.499px",
+                        "y": "244.482px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "bud",
+                        "x": "360.282px",
+                        "y": "273.63px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "gal",
+                        "x": "374.175px",
+                        "y": "243.877px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "war",
+                        "x": "343.23px",
+                        "y": "218.38px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ukr",
+                        "x": "410.814px",
+                        "y": "225.733px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "mos",
+                        "x": "505.185px",
+                        "y": "164.129px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ser",
+                        "x": "356.185px",
+                        "y": "328.418px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "ska",
+                        "x": "265.272px",
+                        "y": "136.144px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "nws",
+                        "x": "202.034px",
+                        "y": "40.624px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "nao",
+                        "x": "64.945px",
+                        "y": "94.133px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "irs",
+                        "x": "105.63px",
+                        "y": "178.818px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "cha",
+                        "x": "126.856px",
+                        "y": "198.276px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "nse",
+                        "x": "196.7px",
+                        "y": "139.543px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "bas",
+                        "x": "306.564px",
+                        "y": "177.547px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "gob",
+                        "x": "341.804px",
+                        "y": "122.269px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "bar",
+                        "x": "398.464px",
+                        "y": "17.932px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "mao",
+                        "x": "33.119px",
+                        "y": "237.551px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "wem",
+                        "x": "127.202px",
+                        "y": "356.508px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "gol",
+                        "x": "182.037px",
+                        "y": "318.92px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "tys",
+                        "x": "234.662px",
+                        "y": "350.317px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "ion",
+                        "x": "312.051px",
+                        "y": "386.58px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "ads",
+                        "x": "293.477px",
+                        "y": "316.443px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "aeg",
+                        "x": "392.889px",
+                        "y": "371.986px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "eme",
+                        "x": "457.63px",
+                        "y": "390.09px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "bls",
+                        "x": "447.017px",
+                        "y": "294.686px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "hel",
+                        "x": "238.856px",
+                        "y": "161.884px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "wal",
+                        "x": "152.125px",
+                        "y": "172.309px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "lon",
+                        "x": "184.951px",
+                        "y": "170.839px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "yor",
+                        "x": "177.012px",
+                        "y": "159.75px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "lpl",
+                        "x": "165.948px",
+                        "y": "148.066px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "cly",
+                        "x": "156.624px",
+                        "y": "120.01px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "edi",
+                        "x": "173.959px",
+                        "y": "112.34px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "gas",
+                        "x": "141.866px",
+                        "y": "269.067px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "bre",
+                        "x": "146.819px",
+                        "y": "225.906px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "mar",
+                        "x": "182.904px",
+                        "y": "284.987px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "pic",
+                        "x": "178.442px",
+                        "y": "215.333px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "pie",
+                        "x": "222.704px",
+                        "y": "282.864px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ven",
+                        "x": "254.898px",
+                        "y": "285.341px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "rom",
+                        "x": "266.28px",
+                        "y": "336.148px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "apu",
+                        "x": "300.535px",
+                        "y": "343.714px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "nap",
+                        "x": "292.349px",
+                        "y": "369.208px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "tus",
+                        "x": "252.702px",
+                        "y": "308.564px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "kie",
+                        "x": "249.385px",
+                        "y": "190.822px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ber",
+                        "x": "285.868px",
+                        "y": "197.456px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "pru",
+                        "x": "316.824px",
+                        "y": "197.456px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "sew",
+                        "x": "492.392px",
+                        "y": "229.414px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "liv",
+                        "x": "368.232px",
+                        "y": "169.264px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "stp",
+                        "x": "448.385px",
+                        "y": "86.347px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "(sc)",
+                        "x": "383.538px",
+                        "y": "140.597px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "(nc)",
+                        "x": "432.541px",
+                        "y": "71.961px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ﬁn",
+                        "x": "365.468px",
+                        "y": "96.85px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "con",
+                        "x": "435.118px",
+                        "y": "338.967px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "smy",
+                        "x": "455.571px",
+                        "y": "362.183px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "ank",
+                        "x": "487.079px",
+                        "y": "325.147px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "arm",
+                        "x": "559.493px",
+                        "y": "318.514px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "syr",
+                        "x": "533.513px",
+                        "y": "378.214px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    },
+                    {
+                        "#text": "naf",
+                        "x": "70.009px",
+                        "y": "382.636px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "spa",
+                        "x": "91.65px",
+                        "y": "319.755px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "(nc)",
+                        "x": "84.524px",
+                        "y": "283.782px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "(sc)",
+                        "x": "84.597px",
+                        "y": "340.363px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "por",
+                        "x": "52.14px",
+                        "y": "321.433px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "tun",
+                        "x": "200.457px",
+                        "y": "387.967px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "bel",
+                        "x": "193.939px",
+                        "y": "201.957px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "hol",
+                        "x": "231.536px",
+                        "y": "189.11px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "rum",
+                        "x": "406.451px",
+                        "y": "275.507px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "bul",
+                        "x": "380.888px",
+                        "y": "313.212px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "gre",
+                        "x": "360.923px",
+                        "y": "358.174px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "alb",
+                        "x": "341.228px",
+                        "y": "348.109px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "den",
+                        "x": "264.659px",
+                        "y": "155.059px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "swe",
+                        "x": "301.959px",
+                        "y": "97.92px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "nor",
+                        "x": "264.63px",
+                        "y": "101.066px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;"
+                    },
+                    {
+                        "#text": "tri",
+                        "x": "295.693px",
+                        "y": "281.929px",
+                        "style": "font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:6.667px;fill:white;"
+                    }
+                ]
+            },
+            {
+                "id": "units",
+                "rect": [
+                    {
+                        "x": 160.841,
+                        "y": 105.18,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 150.271,
+                        "y": 177.993,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 144.064,
+                        "y": 196.448,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 118.898,
+                        "y": 167.591,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 79.325,
+                        "y": 102.391,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 60.975,
+                        "y": 224.025,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 147.755,
+                        "y": 232.309,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 143.98,
+                        "y": 276.589,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 201.567,
+                        "y": 277.869,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 234.367,
+                        "y": 279.945,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 255.129,
+                        "y": 287.285,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 251.983,
+                        "y": 309.934,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 262.888,
+                        "y": 322.098,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 292.458,
+                        "y": 331.325,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 286.796,
+                        "y": 349.78,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 98.052,
+                        "y": 280.993,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 98.01,
+                        "y": 335.31,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 153.679,
+                        "y": 353.765,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 199.816,
+                        "y": 313.919,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 255.391,
+                        "y": 350.881,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 334.296,
+                        "y": 374.998,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 309.13,
+                        "y": 320.997,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 394.065,
+                        "y": 352.192,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 486.435,
+                        "y": 381.552,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 471.231,
+                        "y": 292.947,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 94.906,
+                        "y": 379.35,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 209.5,
+                        "y": 388.926,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 63.449,
+                        "y": 294.625,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 203.119,
+                        "y": 230.033,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 175.227,
+                        "y": 236.114,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 190.746,
+                        "y": 209.061,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 211.298,
+                        "y": 199.834,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 223.48,
+                        "y": 187.578,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 255.968,
+                        "y": 196.059,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 255.467,
+                        "y": 226.879,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 238.771,
+                        "y": 208.642,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 277.988,
+                        "y": 198.995,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 309.878,
+                        "y": 216.505,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 338.189,
+                        "y": 186.621,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 290.741,
+                        "y": 224.632,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 277.896,
+                        "y": 251.895,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 302.014,
+                        "y": 247.7,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 311.189,
+                        "y": 293.051,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 340.18,
+                        "y": 323.868,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 355.279,
+                        "y": 304.364,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 422.67,
+                        "y": 277.698,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 390.913,
+                        "y": 324.991,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 418.744,
+                        "y": 302.572,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 360.208,
+                        "y": 360.584,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 340.024,
+                        "y": 264.74,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 343.432,
+                        "y": 231.185,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 359.161,
+                        "y": 209.689,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 371.482,
+                        "y": 178.232,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 445.584,
+                        "y": 59.523,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 397.266,
+                        "y": 129.819,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 427.843,
+                        "y": 15.651,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 231.34,
+                        "y": 19.216,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 214.353,
+                        "y": 126.403,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 279.364,
+                        "y": 133.953,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 328.018,
+                        "y": 160.377,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 344.281,
+                        "y": 128.081,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 371.744,
+                        "y": 103.783,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 302.014,
+                        "y": 109.813,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 270.852,
+                        "y": 80.977,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 260.932,
+                        "y": 158.158,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 234.544,
+                        "y": 165.763,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 394.026,
+                        "y": 221.486,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 492.592,
+                        "y": 242.982,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 559.072,
+                        "y": 326.448,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 505.385,
+                        "y": 318.689,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 487.14,
+                        "y": 351.404,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 446.832,
+                        "y": 327.27,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 551.522,
+                        "y": 367.972,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 452.195,
+                        "y": 169.58,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 183.782,
+                        "y": 173.507,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 177.283,
+                        "y": 145.781,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 175.236,
+                        "y": 114.676,
+                        "width": 8,
+                        "height": 8
+                    },
+                    {
+                        "x": 164.57,
+                        "y": 133.982,
+                        "width": 8,
+                        "height": 8
+                    }
+                ]
+            },
+            {
+                "id": "scs",
+                "circle": [
+                    {
+                        "cx": 351.949,
+                        "cy": 303.97,
+                        "r": 2.987,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 287.466,
+                        "cy": 284.058,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:1.33px;"
+                    },
+                    {
+                        "cx": 270.276,
+                        "cy": 279.168,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 301.84,
+                        "cy": 243.455,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 264.2,
+                        "cy": 241.677,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 292.208,
+                        "cy": 203.445,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 337.404,
+                        "cy": 214.707,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 263.904,
+                        "cy": 185.514,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 228.34,
+                        "cy": 184.032,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 207.001,
+                        "cy": 194.85,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 179.853,
+                        "cy": 181.335,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 168.57,
+                        "cy": 156.127,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 176.055,
+                        "cy": 127.984,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 186.551,
+                        "cy": 226.562,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 195.739,
+                        "cy": 291.171,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 264.971,
+                        "cy": 325.431,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 213.995,
+                        "cy": 381.801,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 286.49,
+                        "cy": 346.066,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 97.64,
+                        "cy": 305.693,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 56.138,
+                        "cy": 311.472,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 126.832,
+                        "cy": 214.114,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 331.324,
+                        "cy": 259.575,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 378.756,
+                        "cy": 320.071,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 408.559,
+                        "cy": 281.418,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 375.355,
+                        "cy": 368.584,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 426.268,
+                        "cy": 365.584,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 441.551,
+                        "cy": 328.267,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 483.459,
+                        "cy": 330.632,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 480.459,
+                        "cy": 275.323,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 471.777,
+                        "cy": 159.553,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 409.84,
+                        "cy": 125.111,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 323.012,
+                        "cy": 120.481,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 278.441,
+                        "cy": 111.508,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    },
+                    {
+                        "cx": 277.068,
+                        "cy": 163.925,
+                        "r": 3,
+                        "style": "fill:white;stroke:black;stroke-width:0.67px;"
+                    }
+                ]
+            },
+            {
+                "id": "passthroughs",
+                "g": {
+                    "id": "water1",
+                    "serif:id": "water",
+                    "path": [
+                        {
+                            "d": "M280.068,148.354l1.13,8.933l7.265,14.672l5.986,-3.122l-6.085,-14.842l-8.296,-5.641Z",
+                            "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"
+                        },
+                        {
+                            "d": "M413.062,338.6l21.661,-20.628l6.382,4.011l-30.823,27.273l4.933,-10l-2.153,-0.656",
+                            "style": "fill:rgb(187,222,251);stroke:white;stroke-width:1.33px;stroke-linecap:butt;"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -11,4 +11,5 @@ fs.writeFileSync("./xmlParsed.json", JSON.stringify(ret))
 // inspect(ret)
 unique = svgHandler.checkIfAllProvinceIDsAreUnique(ret);
 console.log(unique)
-svgHandler.generateSvgHandled(ret)
+
+fs.writeFileSync("./handled.json", JSON.stringify(svgHandler.generateSvgHandled(ret)))
